@@ -1,0 +1,226 @@
+[
+  {
+    "path": "10.1.ppt",
+    "bytes": 775168,
+    "storage": "git",
+    "sha256": "26e29c51042da1025a6d55884672a521203fdd585699e8c86af850fb4f0b1e27",
+    "mtime_ns": 1375317428000000000
+  },
+  {
+    "path": "10.2.ppt",
+    "bytes": 524288,
+    "storage": "git",
+    "sha256": "a0ab656c69684752869c21936c97d1ad42b47a69a544076f0bf872835c77af46",
+    "mtime_ns": 1375317486000000000
+  },
+  {
+    "path": "10.3-4.ppt",
+    "bytes": 565760,
+    "storage": "git",
+    "sha256": "383c77726ba96189086d06ac124ddcd7d827cb6bcd4a03326c047811c927b8eb",
+    "mtime_ns": 1375317890000000000
+  },
+  {
+    "path": "11.1-2.ppt",
+    "bytes": 519680,
+    "storage": "git",
+    "sha256": "b84ea307c98a3ab8140362a7d81760f80ddf8773da7a8132fc73ca98d0e74f2d",
+    "mtime_ns": 1196431226000000000
+  },
+  {
+    "path": "11.3-5.ppt",
+    "bytes": 419840,
+    "storage": "git",
+    "sha256": "59b17f7bc684c5229b7ffab69afb599b9c9fc7da489d978b4b05f4726795bb71",
+    "mtime_ns": 1196516536000000000
+  },
+  {
+    "path": "12.1-2.ppt",
+    "bytes": 413696,
+    "storage": "git",
+    "sha256": "b3e4e4b571de1d710e213efe20a25e6e95eb945eaf96180da884ccf86d5f9d6e",
+    "mtime_ns": 1196518566000000000
+  },
+  {
+    "path": "12.3-4.ppt",
+    "bytes": 552448,
+    "storage": "git",
+    "sha256": "310f4419c1e94c7547fff86aecfa993b63fbe766dbbdbc4ce730c540b7a2155c",
+    "mtime_ns": 1196603002000000000
+  },
+  {
+    "path": "13.1-2.ppt",
+    "bytes": 560128,
+    "storage": "git",
+    "sha256": "1afe7f67ae998290dcdf4dd1c7ba2f34eadd1ffb9e84f204f269c4c3e896465c",
+    "mtime_ns": 1196589884000000000
+  },
+  {
+    "path": "13.3-4.ppt",
+    "bytes": 738816,
+    "storage": "git",
+    "sha256": "49607fb388b8daca62cbfbc8411055c9f7c23a76a7db364a3be232ba82f57d86",
+    "mtime_ns": 1196603360000000000
+  },
+  {
+    "path": "14.1.ppt",
+    "bytes": 684032,
+    "storage": "git",
+    "sha256": "892d0dad11e85efc50de5ef0b9351bec1a7aa6869aae5ad10a5c53b9a000d0f7",
+    "mtime_ns": 1375318070000000000
+  },
+  {
+    "path": "14.2.ppt",
+    "bytes": 360960,
+    "storage": "git",
+    "sha256": "d5d1a8a16dacf504859c323d82d472b1f9f6c4027ba25110fb9603e9b1a9eef5",
+    "mtime_ns": 1375318172000000000
+  },
+  {
+    "path": "14.3.1-2.ppt",
+    "bytes": 541184,
+    "storage": "git",
+    "sha256": "58ee3e31cd43a28ddfad3844531eb3cd1e59746f258853940b2639c2edf27ed1",
+    "mtime_ns": 1375318234000000000
+  },
+  {
+    "path": "14.3.3-4.ppt",
+    "bytes": 762368,
+    "storage": "git",
+    "sha256": "a25fb00e5fc4869b3f66eceff32eebe346be0bba5dd224cbe6ca8fbdf7977672",
+    "mtime_ns": 1197160730000000000
+  },
+  {
+    "path": "2.1.ppt",
+    "bytes": 478720,
+    "storage": "git",
+    "sha256": "b1573fef5771c0e30cf1a6bf8bdb47e5d256e96eabc8d8d7f88e9df71b203541",
+    "mtime_ns": 1375271168000000000
+  },
+  {
+    "path": "2.2-3.ppt",
+    "bytes": 473600,
+    "storage": "git",
+    "sha256": "e0c99d75c8ffa86480c1453b3ff64f56b6ef088adc0fff742495c6a0bb6e2819",
+    "mtime_ns": 1375272588000000000
+  },
+  {
+    "path": "2.4.ppt",
+    "bytes": 291840,
+    "storage": "git",
+    "sha256": "a7977dc2fe8317d9e5d5c60db82081c21f3b68a399b1f5a38b664c451238dd7c",
+    "mtime_ns": 1361780902000000000
+  },
+  {
+    "path": "3.1-2.ppt",
+    "bytes": 523264,
+    "storage": "git",
+    "sha256": "111547ce99838676a9e1c0d1cde0490848a50c889c667be3f7a52fd863b1c675",
+    "mtime_ns": 1361929374000000000
+  },
+  {
+    "path": "4.1-2.ppt",
+    "bytes": 588800,
+    "storage": "git",
+    "sha256": "1b3052415a5a97a8ec1f5cb0a0a721b9bff38d7c818c868bfa3f0aa21462a220",
+    "mtime_ns": 1375275130000000000
+  },
+  {
+    "path": "4.3.ppt",
+    "bytes": 671232,
+    "storage": "git",
+    "sha256": "d5f9aeda3d76bd9f94087e4c6655e5aee8c617b3823fe381adf7f4721a4ba131",
+    "mtime_ns": 1375279656000000000
+  },
+  {
+    "path": "4.4.ppt",
+    "bytes": 660992,
+    "storage": "git",
+    "sha256": "19cae09295162693511084ebf1eb08c47a4b802d7c00a0a472bc51c439cf09f7",
+    "mtime_ns": 1375280332000000000
+  },
+  {
+    "path": "5.1-2.ppt",
+    "bytes": 616960,
+    "storage": "git",
+    "sha256": "a5a5fdd2c14542e66b993bf3154c8df970b0adf63df5ce947bc4f90dd253e56d",
+    "mtime_ns": 1375285538000000000
+  },
+  {
+    "path": "6.1.ppt",
+    "bytes": 848384,
+    "storage": "git",
+    "sha256": "6d335959d785af3302fbc9ea5e1dcf8936365401512dc6e36d3f54f7b37fa608",
+    "mtime_ns": 1361931392000000000
+  },
+  {
+    "path": "6.2-3.ppt",
+    "bytes": 854528,
+    "storage": "git",
+    "sha256": "d30da6b10d13e3264b673eeae9198fc41f517a836089fde09e953750325d12fe",
+    "mtime_ns": 1375285740000000000
+  },
+  {
+    "path": "6.4.4.ppt",
+    "bytes": 1408512,
+    "storage": "git",
+    "sha256": "2d259a540dbc427dbbc3a0eb1f86c0b930254150a8c76c3c9044666e4668a588",
+    "mtime_ns": 1375285848000000000
+  },
+  {
+    "path": "6.4.ppt",
+    "bytes": 1468928,
+    "storage": "git",
+    "sha256": "2aafa80e8f23c314e8b26af76a205aa6fda415c24ece8d41d48cc68c562d803e",
+    "mtime_ns": 1375286018000000000
+  },
+  {
+    "path": "7.1-2.ppt",
+    "bytes": 1471488,
+    "storage": "git",
+    "sha256": "6f48e845f7e0c00062285f58ec9a876fe68ba1326fd8e01cd70387bf82b67f8b",
+    "mtime_ns": 1375286144000000000
+  },
+  {
+    "path": "8.1-2.ppt",
+    "bytes": 389632,
+    "storage": "git",
+    "sha256": "b6cd5bdc9261c099857b914cffbcd466b61838037a5e5038af07c7a7c4b60a54",
+    "mtime_ns": 1375286182000000000
+  },
+  {
+    "path": "8.3-4.ppt",
+    "bytes": 824320,
+    "storage": "git",
+    "sha256": "138e760bb155687b2f3e88674815d23f292fa325b71db50696f1cf3f056cd673",
+    "mtime_ns": 1375287372000000000
+  },
+  {
+    "path": "9.1-2.ppt",
+    "bytes": 687616,
+    "storage": "git",
+    "sha256": "8e62503923e698051a68272d099479d36df2d1e8cdddcad342f4bf51bf64f5b0",
+    "mtime_ns": 1197159154000000000
+  },
+  {
+    "path": "ch1.ppt",
+    "bytes": 806400,
+    "storage": "git",
+    "sha256": "3318b39658aa2b0b2467ba9d4a4c135d06d232989e814fe2d07d2ec658efa757",
+    "mtime_ns": 1375274100000000000
+  },
+  {
+    "path": "Chapter 2.pdf",
+    "bytes": 599827,
+    "storage": "git",
+    "sha256": "712d735c7f36d3ba6eef08f6bbd84fa3e8b37465172cdf1810809901493bc500",
+    "mtime_ns": 1759136942994637400
+  },
+  {
+    "path": "PPT.zip",
+    "bytes": 10882247,
+    "storage": "git",
+    "sha256": "5535bb8d1bfa2c7642387b5eeb7daf0e947d3389d50b06d8934c1c647836d99e",
+    "mtime_ns": 1757926216766055900
+  }
+]
